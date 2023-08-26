@@ -167,6 +167,10 @@ footer {
         width: 2rem;
         height: 2rem; } }
 
+main form, main form fieldset legend .leyenda, main .materiales {
+  text-align: center;
+  padding: 2rem; }
+
 @media screen and (min-width: 600px) {
   header img {
     width: 100%;
@@ -321,6 +325,10 @@ footer {
   footer img {
     width: 2rem;
     height: 2rem; } }
+
+main form, main form fieldset legend .leyenda, main .materiales {
+  text-align: center;
+  padding: 2rem; }
 
 @media screen and (min-width: 980px) {
   header .logo-1 {
