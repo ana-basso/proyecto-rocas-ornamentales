@@ -1,1 +1,0 @@
-# proyecto-rocas-ornamentales
